@@ -1,0 +1,12 @@
+torch==2.4.1
+torchvision==0.19.1
+mmcv==2.2.0
+opend3d
+numpy<2.0.0
+tqdm
+matplotlib
+pycolmap
+scipy
+sklearn
+pillow
+opencv-python
